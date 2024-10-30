@@ -1,0 +1,7 @@
+{
+  "name": "exercise-tracker",
+  "homepage": "https://yourusername.github.io/exercise-tracker", // Replace yourusername
+  "version": "0.1.0",
+  "private": true,
+  ...
+}
